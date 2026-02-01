@@ -1,0 +1,7 @@
+.vs
+.git
+.vscode
+
+**/bin/
+**/obj/
+**/published/
